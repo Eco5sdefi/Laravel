@@ -30,7 +30,7 @@ Xin chào, tôi có thể giúp bạn cài đặt tập lệnh này trên Ubuntu
 
 6. Cài đặt các gói phần mềm cần thiết khác, bao gồm Nginx, PHP, Git, MySQL, Node.js, và các công cụ xây dựng bằng lệnh:
    ```
-   sudo apt install -y nano mc curl build-essential nginx php7.2 php7.2-fpm git php7.2-mysql nodejs redis-server php7.2-xml php7.2-mbstring nodejs npm mysql-server php7.2-mysql php7.2-curl
+   sudo apt install -y nano mc curl build-essential nginx php7.4 php7.4-fpm git php7.4-mysql nodejs redis-server php7.4-xml php7.4-mbstring nodejs npm mysql-server php7.4-mysql php7.4-curl
    ```
 
 7. Cấu hình PHP FPM bằng cách thêm dòng sau vào cuối tệp cấu hình:
